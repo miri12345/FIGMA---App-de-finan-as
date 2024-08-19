@@ -7,9 +7,9 @@
 Começando pela Splash Screen - Start - Login - Home
 <div>
 </p align="center">
-<img height="600em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181878734880770/Start.png?ex=66c4f52b&is=66c3a3ab&hm=9e7f5f0e71ee85433db57a74be0fd89c484a40368991a03bc2b32fdf7dbf733f&" />
-<img height="600em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181972322254888/Log_in.png?ex=66c4f541&is=66c3a3c1&hm=5769e424061d4dd92fef50b5b6d017422ea1744bdd26696e50798fecac6c50af&" />
-<img height="600em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275182003670618273/Home.png?ex=66c4f549&is=66c3a3c9&hm=f309d2606a87caee4f52683ce71d680060fbf86ca987626664478b81a26d8899&" />
+<img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181878734880770/Start.png?ex=66c4f52b&is=66c3a3ab&hm=9e7f5f0e71ee85433db57a74be0fd89c484a40368991a03bc2b32fdf7dbf733f&" />
+<img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181972322254888/Log_in.png?ex=66c4f541&is=66c3a3c1&hm=5769e424061d4dd92fef50b5b6d017422ea1744bdd26696e50798fecac6c50af&" />
+<img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275182003670618273/Home.png?ex=66c4f549&is=66c3a3c9&hm=f309d2606a87caee4f52683ce71d680060fbf86ca987626664478b81a26d8899&" />
 
 </div>
 
@@ -21,7 +21,7 @@ No Home, temos acesso ao balanceamento de finanças, a carteira, o perfil, novo 
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186037697810525/Balance_fevereiro.png?ex=66c4f90b&is=66c3a78b&hm=96948d46ff07101a0893a08c323731a23850b40727e9ae013260a49241a0d4d6&" />
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186061949141143/Balance_marco.png?ex=66c4f910&is=66c3a790&hm=01909b7f876020c2002a28f41be2155e0046fda5e9cef2bad02e21a09857fb10&" />
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186125505564762/Balance_abril.png?ex=66c4f920&is=66c3a7a0&hm=1ba6b3c17817059dc7c4eed58fa12e7ddf1944d7dac754328d6b7f16ec126596&" />
-<img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188357273751697/Description.png?ex=66c4fb34&is=66c3a9b4&hm=a3724e1f0a942458a20015f2998b5a7321bafc1fe7a53a1f68c14646e6e65b5f&" />
+<img height="450em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188357273751697/Description.png?ex=66c4fb34&is=66c3a9b4&hm=a3724e1f0a942458a20015f2998b5a7321bafc1fe7a53a1f68c14646e6e65b5f&" />
 
 </div>
 Acima é possível ver o balanceamento de finanças de 4 meses da família fictícia. E se clicar em um deles, é possível ver sua informações mais detalhadamente.
