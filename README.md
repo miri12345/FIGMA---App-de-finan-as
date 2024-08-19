@@ -24,7 +24,7 @@ No Home, temos acesso ao balanceamento de finanças, a carteira, o perfil, novo 
 <img height="450em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188357273751697/Description.png?ex=66c4fb34&is=66c3a9b4&hm=a3724e1f0a942458a20015f2998b5a7321bafc1fe7a53a1f68c14646e6e65b5f&" />
 
 </div>
-Acima é possível ver o balanceamento de finanças de 4 meses da família fictícia. E se clicar em um deles, é possível ver sua informações mais detalhadamente.
+Acima é possível ver o balanceamento de finanças de 4 meses da família fictícia. E se clicar em um deles, é possível ver suas informações mais detalhadamente.
 
 ##
 
