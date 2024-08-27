@@ -21,7 +21,7 @@ No Home, temos acesso ao balanceamento de finanças, a carteira, o perfil, novo 
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186037697810525/Balance_fevereiro.png?ex=66cd8acb&is=66cc394b&hm=2411e8d66ed00b1fbb41a636cea7f0ecceb5e59c0a945f9112a13446b29846fd&" />
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186061949141143/Balance_marco.png?ex=66cd8ad0&is=66cc3950&hm=ecdbb8916d9cfc3a883865e1b4526ed795ebc7c868e7a38a3f30a20d389de1e9&" />
 <img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275186125505564762/Balance_abril.png?ex=66cd8ae0&is=66cc3960&hm=dbf8f42d2a4edf0c2de709a0fb0bd3fb79f18351ca188c38712e630a3ad53ca8&" />
-<img height="450em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188357273751697/Description.png?ex=66cd8cf4&is=66cc3b74&hm=6ec44c785c436540bf38ed8226c7c731b795034637ebd489daeb19f0c26ce481&" />
+<img height="500em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188357273751697/Description.png?ex=66cd8cf4&is=66cc3b74&hm=6ec44c785c436540bf38ed8226c7c731b795034637ebd489daeb19f0c26ce481&" />
 
 </div>
 Acima é possível ver o balanceamento de finanças de 4 meses da família fictícia. E se clicar em um deles, é possível ver suas informações mais detalhadamente.
