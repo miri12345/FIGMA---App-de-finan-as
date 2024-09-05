@@ -9,7 +9,7 @@ Começando pela Splash Screen - Start - Login - Home
 </p align="center">
 <img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181878734880770/Start.png?ex=66cd86eb&is=66cc356b&hm=a247234c92424265542c6d3a5548d383cdba78fc2ae96cda712da023f2e80b97&" />
 <img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275181972322254888/Log_in.png?ex=66cd8701&is=66cc3581&hm=49f86c1d65c9082268dba9176b200d35b0f906d630a7b84d2786a33a250b4d80&" />
-<img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275182003670618273/Home.png?ex=66cf8149&is=66ce2fc9&hm=45985032974c8bb204aaa1b63066591e02d7ce1dad294b7200b3fecdc396eb49&" />
+<img height="550em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275182003670618273/Home.png?ex=66da0d49&is=66d8bbc9&hm=8d49a63397760f9a954cad03d6b10dae4782c3444cc7789fa5927b71668458a8&" />
 
 </div>
 
@@ -31,9 +31,9 @@ Acima é possível ver o balanceamento de finanças de 4 meses da família fict�
 <div>
 </p align="center">
 <img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188129115930664/Wallet.png?ex=66cd8cbd&is=66cc3b3d&hm=e8502b7cd14ff95a5c746abdfc61358c1c6b726675442a52fa06f7980c89c092&" />
-<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188153820643419/Profile.png?ex=66cd8cc3&is=66cc3b43&hm=91d7c2cf1083439b985cd73c1cae9c0ab199c882216eb6c8605a9c40dfa6e681&" />
-<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188256203608114/New_register2.png?ex=66cd8cdc&is=66cc3b5c&hm=9489bb4fb7d1d6a628546baffd48962ee59be38698e7e35adbed255faa657f0d&" />
-<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188336851681433/Notifications.png?ex=66cf872f&is=66ce35af&hm=9d6e366ffe6a97317dada6c5e728efc8dc704163fadb7281c14ad6768a6fbd06&" />
+<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188153820643419/Profile.png?ex=66da1303&is=66d8c183&hm=205c6ca47115c93b781a61424358ee6368e020819a4b90e8fd2189a988ccde4b&" />
+<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188256203608114/New_register2.png?ex=66da131c&is=66d8c19c&hm=b3077d478a60b2ae8e5afcd910c62df6117fb26d142558cbc45dbeb1aa99ff58&" />
+<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188336851681433/Notifications.png?ex=66da132f&is=66d8c1af&hm=d2db64c8efd8c2c8771b926f1b3f59a96f34db71d8cc070a49295ab5d644530e&" />
 
 
 </div>
