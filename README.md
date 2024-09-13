@@ -32,7 +32,7 @@ Acima é possível ver o balanceamento de finanças de 4 meses da família fict�
 </p align="center">
 <img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188129115930664/Wallet.png?ex=66cd8cbd&is=66cc3b3d&hm=e8502b7cd14ff95a5c746abdfc61358c1c6b726675442a52fa06f7980c89c092&" />
 <img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188153820643419/Profile.png?ex=66da1303&is=66d8c183&hm=205c6ca47115c93b781a61424358ee6368e020819a4b90e8fd2189a988ccde4b&" />
-<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188256203608114/New_register2.png?ex=66da131c&is=66d8c19c&hm=b3077d478a60b2ae8e5afcd910c62df6117fb26d142558cbc45dbeb1aa99ff58&" />
+<img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188256203608114/New_register2.png?ex=66e547dc&is=66e3f65c&hm=231ae81904cbe8bfa2fcbc6e22b8b8cdef95305a4a78c59161bebc31b015c2f1&" />
 <img height="400em" src="https://cdn.discordapp.com/attachments/688104936965144595/1275188336851681433/Notifications.png?ex=66da132f&is=66d8c1af&hm=d2db64c8efd8c2c8771b926f1b3f59a96f34db71d8cc070a49295ab5d644530e&" />
 
 
